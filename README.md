@@ -2,8 +2,8 @@
 
 A comprehensive Home Assistant blueprint that automatically creates entities from Paradox alarm zone MQTT messages, specifically designed for MG5050, EVO192, and other Paradox alarm systems.
 
-[![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://github.com/YOUR_GITHUB_USERNAME/ha-blueprints/blob/main/security/paradox_zone_parser/paradox_zone_parser.yaml)
-[![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/yourusername)
+[![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://github.com/jlwainwright/ha-blueprints/blob/main/security/paradox_zone_parser/paradox_zone_parser.yaml)
+[![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/jlwainwright)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HA Community](https://img.shields.io/badge/Home%20Assistant-Community-41BDF5.svg)](https://community.home-assistant.io/t/paradox-zone-parser-blueprint/12345)
 
